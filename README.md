@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Shubh!
 
-[![Email Badge](https://img.shields.io/badge/-shubhvilen1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shubhvilen1@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-shubhmydv111@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shubhmydv111@gmail.com)
 
 Welcome to my GitHub profile! I'm a developer passionate about creating meaningful projects and continuously learning new technologies.
 
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a developer passionate about creating meaningf
 
 ## 📫 Connect With Me
 
-Have an interesting project or just want to chat? Feel free to reach out to me at shubhvilen1@gmail.com!
+Have an interesting project or just want to chat? Feel free to reach out to me at shubhmydv111@gmail.com!
 
 ## ⚡ GitHub Stats
 
