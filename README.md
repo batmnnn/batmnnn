@@ -1,7 +1,6 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Shubh!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Shubham!
 
 [![Email Badge](https://img.shields.io/badge/-shubhmydv111@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shubhmydv111@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-shubhmyadav-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shubhmyadav/)
 
 Welcome to my GitHub profile! I'm a developer passionate about creating meaningful projects and continuously learning new technologies.
 
