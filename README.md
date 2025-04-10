@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a developer passionate about creating meaningf
 - 🌐 Exploring the world of **Web3** and looking for guidance
 - 👥 Open to collaborations on exciting new projects
 - 💬 Feel free to ask me about anything tech-related
-- 📝 When I'm not coding, I write poetry ✨
+- 📝 When I'm not coding, I sleep ✨
 - 😄 Pronouns: **he/him**
 
 ## 🛠️ Technologies & Tools
