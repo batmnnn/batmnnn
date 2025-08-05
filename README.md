@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a developer passionate about creating meaningf
 ## 💫 About Me
 
 - 🚀 Currently mastering **React**
-- 🔍 Learning **Go** and exploring **Backend Development**
+- 🔍 Learning **Go** **RUST🦀** and exploring **Backend Development**
 - 🌐 Exploring the world of **Web3** and looking for guidance
 - 👥 Open to collaborations on exciting new projects
 - 💬 Feel free to ask me about anything tech-related
@@ -19,9 +19,11 @@ Welcome to my GitHub profile! I'm a developer passionate about creating meaningf
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
 <!-- Add more technologies you work with -->
 
 ## 📫 Connect With Me
