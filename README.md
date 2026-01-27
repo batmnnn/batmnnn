@@ -30,10 +30,4 @@ Welcome to my GitHub profile! I'm a developer passionate about creating meaningf
 
 Have an interesting project or just want to chat? Feel free to reach out to me at shubhmydv111@gmail.com!
 
-## ⚡ GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=batmnnn&show_icons=true&theme=radical)
-
----
-
 ⭐️ From [batmnnn](https://github.com/batmnnn)
