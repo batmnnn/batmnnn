@@ -35,11 +35,27 @@
 
 **what i'm building**
 
-&nbsp;&nbsp;&nbsp;&nbsp;`tabtrail` &nbsp;&mdash;&nbsp; realtime platform, turborepo monorepo, spacetime infra
+<br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;`veri-wire` &nbsp;&mdash;&nbsp; blockchain verification backend, postgres, docker
+&nbsp;&nbsp;&nbsp;&nbsp;`tabtrail`
 
-&nbsp;&nbsp;&nbsp;&nbsp;`tal` &nbsp;&mdash;&nbsp; something in rust. trust me bro
+&nbsp;&nbsp;&nbsp;&nbsp;<sub>your browser has 47 tabs open. you don't trust yourself to close them. tabtrail fixes that — it parks your tabs with an AI-generated snapshot of *why* you opened them, so you can finally close without fear and restore with full context. chrome extension + web app, built with gemini + mongodb.</sub>
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;`veri-wire`
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sub>a secure realtime full-stack platform — think verified rooms where identity is confirmed before you can even join. built with next.js, spacetimedb for realtime state, postgres, and nextauth. the kind of infra most people just sketch on whiteboards.</sub>
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;`VIB3-fi` &nbsp;<sup>ETHMumbai 2026</sup>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<sub>write your DeFi ethics into your ENS name. an autonomous x402 agent reads your on-chain policy — blacklists, slippage caps, risk rules — and enforces them *before* any transaction is signed. no more "i didn't mean to swap into that." built on sepolia + base, with elsa x402 API.</sub>
+
+<br />
+
+---
 
 <br />
 
