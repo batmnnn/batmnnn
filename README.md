@@ -62,11 +62,8 @@
 
 [**boa engine**](https://github.com/boa-dev/boa/pull/4810) &nbsp; `rust` &nbsp; implemented the Iterator Helpers proposal in an embeddable JS engine written in Rust
 
-[**mofa agents**](https://github.com/mofa-org/mofa/pull/678) &nbsp; `rust` &nbsp; added configurable backpressure, observable lag, and per-channel config to the agent bus
+[**mofa agents**](https://github.com/mofa-org/mofa/pull/541) &nbsp; `rust` &nbsp; added configurable backpressure, observable lag, and per-channel config to the agent bus
 
-[**solana anchor**](https://github.com/solana-foundation/anchor/pull/4014) &nbsp; `rust` &nbsp; updated safety checks docs in the Sealevel smart contract framework
-
-[**meshery**](https://github.com/meshery/meshery/pull/12307) &nbsp; `go` &nbsp; contributed to the cloud native manager used by the CNCF ecosystem
 
 <br />
 
