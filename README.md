@@ -1,72 +1,79 @@
-```
-
-  shubham yadav
-
-```
-
 <div align="center">
 
-**`building systems that matter · rust · typescript · solana`**
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhmyadav)
-[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhmydv111@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/batmnnn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=shubham&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
 
 </div>
 
----
-
-### about
-
-CS undergrad at REC Sonbhadra. I build at the intersection of **blockchain**, **systems programming**, and **AI agents**. Open-source contributor to Apache, Solana, and Boa. Turbin3 cohort alumni.
-
-I think in Rust. I ship in TypeScript. I explore on Solana.
-
----
-
-### selected work
-
-| project | stack | description |
-|--------|-------|-------------|
-| **tabtrail** | TypeScript, Turborepo | monorepo with realtime + spacetime infra |
-| **veri-wire** | TypeScript, Prisma, Postgres | backend service with Docker deployment |
-| **tal** | Rust | systems project |
-| **secaeth** | TypeScript | Ethereum tooling |
-| **veri-wire** | TypeScript | blockchain verification layer |
-| **mafia-party** | TypeScript | multiplayer game engine |
-
----
-
-### open source
-
-- **Apache DataFusion** — SQL query engine in Rust
-- **Boa** — embeddable JS engine written in Rust  
-- **MoFA** — modular framework for AI agents
-- **Solana Anchor** — Sealevel smart contract framework
-- **Meshery** — cloud native manager
-
----
-
-### stack
-
-```
-languages   rust · typescript · go · c++ · python · solidity
-frameworks  next.js · express · anchor · prisma
-infra       docker · nginx · postgres · vercel
-chains      solana · ethereum · base
-```
-
----
-
-### currently
-
-- building **tabtrail** — a realtime monorepo platform  
-- exploring **Solana program development** via Turbin3  
-- contributing to **Apache open-source** projects  
-- Semester 3 @ REC Sonbhadra · AKTU
-
----
+<br />
 
 <div align="center">
-<sub>277 contributions in the last year · 73 repositories · Pair Extraordinaire · Pull Shark</sub>
+
+*an early software developer. i write rust, break things, and push commits at midnight.*
+
+<br />
+
+[![](https://img.shields.io/badge/-linkedin-0a0a0a?style=flat-square&logo=linkedin&logoColor=555)](https://linkedin.com/in/shubhmyadav)
+[![](https://img.shields.io/badge/-mail-0a0a0a?style=flat-square&logo=gmail&logoColor=555)](mailto:shubhmydv111@gmail.com)
+[![](https://img.shields.io/badge/-x-0a0a0a?style=flat-square&logo=x&logoColor=555)](https://github.com/batmnnn)
+
 </div>
+
+<br />
+<br />
+
+```
+  i think in systems.
+  i write in rust and typescript.
+  i live on solana.
+```
+
+<br />
+
+---
+
+<br />
+
+**what i'm building**
+
+&nbsp;&nbsp;&nbsp;&nbsp;`tabtrail` &nbsp;&mdash;&nbsp; realtime platform, turborepo monorepo, spacetime infra
+
+&nbsp;&nbsp;&nbsp;&nbsp;`veri-wire` &nbsp;&mdash;&nbsp; blockchain verification backend, postgres, docker
+
+&nbsp;&nbsp;&nbsp;&nbsp;`tal` &nbsp;&mdash;&nbsp; something in rust. trust me bro
+
+<br />
+
+**where i've left commits**
+
+&nbsp;&nbsp;&nbsp;&nbsp;apache datafusion &nbsp;&middot;&nbsp; boa engine &nbsp;&middot;&nbsp; mofa agents &nbsp;&middot;&nbsp; solana anchor &nbsp;&middot;&nbsp; meshery
+
+<br />
+
+---
+
+<br />
+
+<div align="center">
+
+```rust
+let shubham = Developer {
+    languages : ["rust", "typescript", "go", "c++"],
+    chains    : ["solana", "ethereum", "base"],
+    vibe      : "ship first, refactor never",
+    status    : "always building",
+};
+```
+
+</div>
+
+<br />
+
+---
+
+<br />
+
+<div align="center">
+<sub><sub>rec sonbhadra &nbsp;&middot;&nbsp; turbin3 cohort &nbsp;&middot;&nbsp; 277 commits in the last year &nbsp;&middot;&nbsp; he/him</sub></sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%" />
