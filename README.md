@@ -36,17 +36,17 @@
 <br />
 
 **`tabtrail`**
-> your browser has 47 tabs open. you don't trust yourself to close them. tabtrail parks your tabs with an AI-generated snapshot of *why* you opened them — so you can close without fear and restore with full context. chrome extension + web app, built with gemini + mongodb.
+> your browser has 47 tabs open. you don't trust yourself to close them. tabtrail parks each tab with an AI snapshot of why you opened it, so you can finally close without fear and get it back with full context. chrome extension + web app, built with gemini + mongodb.
 
 <br />
 
 **`veri-wire`**
-> drop into a room built around a rumour. you, strangers, and an AI agent work it out together — debating, sourcing, and posting a conclusion the room agrees on. built with next.js, spacetimedb, postgres + nextauth.
+> drop into a room built around a rumour. you, strangers, and an AI agent work it out together, debating and sourcing until the room agrees on a conclusion. built with next.js, spacetimedb, postgres + nextauth.
 
 <br />
 
 **`VIB3-fi`** &nbsp; `ETHMumbai 2026`
-> write your DeFi ethics into your ENS name. an autonomous x402 agent reads your on-chain policy — blacklists, slippage caps, risk rules — and enforces them *before* any transaction is signed. built on sepolia + base, with elsa x402 API.
+> write your DeFi ethics into your ENS name. an autonomous x402 agent reads your on-chain policy, blacklists, slippage caps, risk rules, and enforces them before any transaction is signed. built on sepolia + base with elsa x402 API.
 
 <br />
 
@@ -58,15 +58,15 @@
 
 <br />
 
-[**apache datafusion**](https://github.com/apache/datafusion/pull/19395) &nbsp; `rust` &nbsp; — fixed custom nullability for spark's abs function in the SQL query engine
+[**apache datafusion**](https://github.com/apache/datafusion/pull/19395) &nbsp; `rust` &nbsp; fixed custom nullability for spark's abs function in the SQL query engine
 
-[**boa engine**](https://github.com/boa-dev/boa/pull/4810) &nbsp; `rust` &nbsp; — implemented the Iterator Helpers proposal in an embeddable JS engine written in Rust
+[**boa engine**](https://github.com/boa-dev/boa/pull/4810) &nbsp; `rust` &nbsp; implemented the Iterator Helpers proposal in an embeddable JS engine written in Rust
 
-[**mofa agents**](https://github.com/mofa-org/mofa/pull/678) &nbsp; `rust` &nbsp; — added configurable backpressure, observable lag, and per-channel config to the agent bus
+[**mofa agents**](https://github.com/mofa-org/mofa/pull/678) &nbsp; `rust` &nbsp; added configurable backpressure, observable lag, and per-channel config to the agent bus
 
-[**solana anchor**](https://github.com/solana-foundation/anchor/pull/4014) &nbsp; `rust` &nbsp; — updated safety checks docs in the Sealevel smart contract framework
+[**solana anchor**](https://github.com/solana-foundation/anchor/pull/4014) &nbsp; `rust` &nbsp; updated safety checks docs in the Sealevel smart contract framework
 
-[**meshery**](https://github.com/meshery/meshery/pull/12307) &nbsp; `go` &nbsp; — contributed to the cloud native manager used by the CNCF ecosystem
+[**meshery**](https://github.com/meshery/meshery/pull/12307) &nbsp; `go` &nbsp; contributed to the cloud native manager used by the CNCF ecosystem
 
 <br />
 
