@@ -41,7 +41,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;`veri-wire`
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sub>a secure realtime full-stack platform — think verified rooms where identity is confirmed before you can even join. built with next.js, spacetimedb for realtime state, postgres, and nextauth. the kind of infra most people just sketch on whiteboards.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;<sub>drop into a room built around a rumour. you, strangers, and an AI agent work it out together — debating, sourcing, and posting a conclusion the room agrees on — built with next.js, spacetimedb, postgres + nextauth.</sub>
 
 &nbsp;&nbsp;&nbsp;&nbsp;`VIB3-fi` &nbsp; ETHMumbai 2026
 
