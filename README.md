@@ -12,7 +12,7 @@
 
 <br />
 
-[![](https://img.shields.io/badge/-linkedin-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)
+[![](https://img.shields.io/badge/-linkedin-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)(https://linkedin.com/in/shubhmyadav)
 [![](https://img.shields.io/badge/-mail-0a0a0a?style=flat-square&logo=gmail&logoColor=555)](mailto:shubhmydv111@gmail.com)
 [![](https://img.shields.io/badge/-x-0a0a0a?style=flat-square&logo=x&logoColor=555)](https://github.com/batmnnn)
 
