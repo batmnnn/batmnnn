@@ -24,7 +24,7 @@
 ```
   i think in systems.
   i write in rust and typescript.
-    i live on zk proofs / privacy.
+  i live on zk proofs / privacy.
 ```
 
 <br />
