@@ -12,7 +12,7 @@
 
 <br />
 
-[![](https://img.shields.io/badge/-linkedin-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhmyadav) [![](https://img.shields.io/badge/-mail-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhmydv111@gmail.com) [![](https://img.shields.io/badge/-x-0a0a0a?style=flat-square&logo=x&logoColor=white)](https://github.com/batmnnn)
+[![](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shubhmyadav) [![](https://img.shields.io/badge/-mail-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhmydv111@gmail.com) [![](https://img.shields.io/badge/-x-0a0a0a?style=flat-square&logo=x&logoColor=white)](https://github.com/batmnnn)
 
 </div>
 
