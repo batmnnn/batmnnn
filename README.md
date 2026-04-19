@@ -61,26 +61,17 @@
 
 **where i've left commits**
 
-&nbsp;&nbsp;&nbsp;&nbsp;[apache datafusion](https://github.com/apache/datafusion/pull/19395) &nbsp;&middot;&nbsp; [boa engine](https://github.com/boa-dev/boa/pull/4810) &nbsp;&middot;&nbsp; [mofa agents](https://github.com/mofa-org/mofa/pull/678) &nbsp;&middot;&nbsp; [solana anchor](https://github.com/solana-foundation/anchor/pull/4014) &nbsp;&middot;&nbsp; [meshery](https://github.com/meshery/meshery/pull/12307)
-
 <br />
 
----
+&nbsp;&nbsp;&nbsp;&nbsp;[**apache datafusion**](https://github.com/apache/datafusion/pull/19395) &nbsp;<sup>`rust`</sup>&nbsp; <sub>fixed custom nullability for spark's abs function in the SQL query engine</sub>
 
-<br />
+&nbsp;&nbsp;&nbsp;&nbsp;[**boa engine**](https://github.com/boa-dev/boa/pull/4810) &nbsp;<sup>`rust`</sup>&nbsp; <sub>implemented the Iterator Helpers proposal in an embeddable JS engine written in Rust</sub>
 
-<div align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;[**mofa agents**](https://github.com/mofa-org/mofa/pull/678) &nbsp;<sup>`rust`</sup>&nbsp; <sub>added configurable backpressure, observable lag, and per-channel config to the agent bus</sub>
 
-```rust
-let shubham = Developer {
-    languages : ["rust", "typescript", "go", "c++"],
-    chains    : ["solana", "ethereum", "base"],
-    vibe      : "ship first, refactor never",
-    status    : "always building",
-};
-```
+&nbsp;&nbsp;&nbsp;&nbsp;[**solana anchor**](https://github.com/solana-foundation/anchor/pull/4014) &nbsp;<sup>`rust`</sup>&nbsp; <sub>updated safety checks docs in the Sealevel smart contract framework</sub>
 
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;[**meshery**](https://github.com/meshery/meshery/pull/12307) &nbsp;<sup>`go`</sup>&nbsp; <sub>contributed to the cloud native manager used by the CNCF ecosystem</sub>
 
 <br />
 
