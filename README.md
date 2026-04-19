@@ -61,7 +61,7 @@
 
 **where i've left commits**
 
-&nbsp;&nbsp;&nbsp;&nbsp;apache datafusion &nbsp;&middot;&nbsp; boa engine &nbsp;&middot;&nbsp; mofa agents &nbsp;&middot;&nbsp; solana anchor &nbsp;&middot;&nbsp; meshery
+&nbsp;&nbsp;&nbsp;&nbsp;[apache datafusion](https://github.com/apache/datafusion/pull/19395) &nbsp;&middot;&nbsp; [boa engine](https://github.com/boa-dev/boa/pull/4810) &nbsp;&middot;&nbsp; [mofa agents](https://github.com/mofa-org/mofa/pull/678) &nbsp;&middot;&nbsp; [solana anchor](https://github.com/solana-foundation/anchor/pull/4014) &nbsp;&middot;&nbsp; [meshery](https://github.com/meshery/meshery/pull/12307)
 
 <br />
 
