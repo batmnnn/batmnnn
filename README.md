@@ -12,9 +12,7 @@
 
 <br />
 
-[![](https://img.shields.io/badge/-linkedin-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)(https://linkedin.com/in/shubhmyadav)
-[![](https://img.shields.io/badge/-mail-0a0a0a?style=flat-square&logo=gmail&logoColor=555)](mailto:shubhmydv111@gmail.com)
-[![](https://img.shields.io/badge/-x-0a0a0a?style=flat-square&logo=x&logoColor=555)](https://github.com/batmnnn)
+[![](https://img.shields.io/badge/-linkedin-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhmyadav) [![](https://img.shields.io/badge/-mail-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhmydv111@gmail.com) [![](https://img.shields.io/badge/-x-0a0a0a?style=flat-square&logo=x&logoColor=white)](https://github.com/batmnnn)
 
 </div>
 
@@ -41,15 +39,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>your browser has 47 tabs open. you don't trust yourself to close them. tabtrail fixes that — it parks your tabs with an AI-generated snapshot of *why* you opened them, so you can finally close without fear and restore with full context. chrome extension + web app, built with gemini + mongodb.</sub>
 
-<br />
-
 &nbsp;&nbsp;&nbsp;&nbsp;`veri-wire`
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>a secure realtime full-stack platform — think verified rooms where identity is confirmed before you can even join. built with next.js, spacetimedb for realtime state, postgres, and nextauth. the kind of infra most people just sketch on whiteboards.</sub>
 
-<br />
-
-&nbsp;&nbsp;&nbsp;&nbsp;`VIB3-fi` &nbsp;<sup>ETHMumbai 2026</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;`VIB3-fi` &nbsp; ETHMumbai 2026
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>write your DeFi ethics into your ENS name. an autonomous x402 agent reads your on-chain policy — blacklists, slippage caps, risk rules — and enforces them *before* any transaction is signed. no more "i didn't mean to swap into that." built on sepolia + base, with elsa x402 API.</sub>
 
@@ -63,15 +57,15 @@
 
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;[**apache datafusion**](https://github.com/apache/datafusion/pull/19395) &nbsp;<sup>`rust`</sup>&nbsp; <sub>fixed custom nullability for spark's abs function in the SQL query engine</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;[**apache datafusion**](https://github.com/apache/datafusion/pull/19395) &nbsp; `rust` &nbsp; fixed custom nullability for spark's abs function in the SQL query engine
 
-&nbsp;&nbsp;&nbsp;&nbsp;[**boa engine**](https://github.com/boa-dev/boa/pull/4810) &nbsp;<sup>`rust`</sup>&nbsp; <sub>implemented the Iterator Helpers proposal in an embeddable JS engine written in Rust</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;[**boa engine**](https://github.com/boa-dev/boa/pull/4810) &nbsp; `rust` &nbsp; implemented the Iterator Helpers proposal in an embeddable JS engine written in Rust
 
-&nbsp;&nbsp;&nbsp;&nbsp;[**mofa agents**](https://github.com/mofa-org/mofa/pull/678) &nbsp;<sup>`rust`</sup>&nbsp; <sub>added configurable backpressure, observable lag, and per-channel config to the agent bus</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;[**mofa agents**](https://github.com/mofa-org/mofa/pull/678) &nbsp; `rust` &nbsp; added configurable backpressure, observable lag, and per-channel config to the agent bus
 
-&nbsp;&nbsp;&nbsp;&nbsp;[**solana anchor**](https://github.com/solana-foundation/anchor/pull/4014) &nbsp;<sup>`rust`</sup>&nbsp; <sub>updated safety checks docs in the Sealevel smart contract framework</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;[**solana anchor**](https://github.com/solana-foundation/anchor/pull/4014) &nbsp; `rust` &nbsp; updated safety checks docs in the Sealevel smart contract framework
 
-&nbsp;&nbsp;&nbsp;&nbsp;[**meshery**](https://github.com/meshery/meshery/pull/12307) &nbsp;<sup>`go`</sup>&nbsp; <sub>contributed to the cloud native manager used by the CNCF ecosystem</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;[**meshery**](https://github.com/meshery/meshery/pull/12307) &nbsp; `go` &nbsp; contributed to the cloud native manager used by the CNCF ecosystem
 
 <br />
 
@@ -79,8 +73,4 @@
 
 <br />
 
-<div align="center">
-<sub><sub>rec sonbhadra &nbsp;&middot;&nbsp; turbin3 cohort &nbsp;&middot;&nbsp; 277 commits in the last year &nbsp;&middot;&nbsp; he/him</sub></sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%" />
+rec sonbhadra &nbsp;·&nbsp; turbin3 cohort &nbsp;·&nbsp; 277 commits in the last year &nbsp;·&nbsp; he/him
