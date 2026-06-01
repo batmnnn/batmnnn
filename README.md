@@ -8,7 +8,7 @@
 
 <div align="center">
 
-*an early software developer. i write rust, break things, and push commits at midnight.*
+*an early software developer. i love rust and rust'ed things, always alive at midnight.*
 
 <br />
 
@@ -22,7 +22,7 @@
 ```
   i think in systems.
   i write in rust and typescript.
-  i live on zk proofs / privacy.
+  i have crush on zk proofs / privacy.
 ```
 
 <br />
@@ -54,7 +54,7 @@
 
 <br />
 
-**where i've left commits**
+**repos I've rust'ed**
 
 <br />
 
@@ -72,4 +72,4 @@
 <br />
 
 ethmumbai winner 
-&nbsp;·&nbsp; turbin3 cohort &nbsp;·&nbsp; 277 commits in the last year &nbsp;·&nbsp; he/him
+&nbsp;·&nbsp; turbin3 cohort &nbsp;·&nbsp; 330 commits in the last year &nbsp;·&nbsp; he/him
